@@ -11,4 +11,4 @@ http://htmlpreview.github.io/?https://github.com/patvik/Work-Samples/blob/master
 http://htmlpreview.github.io/?https://github.com/patvik/Work-Samples/blob/master/Netflix%20Movies%20and%20TV%20Shows_%20Exploratory%20Analysis.html
 
 ## To view Jumpman New Market Analysis - Python.html follow the link below - 
-http://htmlpreview.github.io/?https://github.com/patvik/Work-Samples/blob/master/Netflix%20Movies%20and%20TV%20Shows_%20Exploratory%20Analysis.html
+http://htmlpreview.github.io/?https://github.com/patvik/Work-Samples/blob/master/Jumpman%20New%20Market%20Analysis%20-%20Python.html
